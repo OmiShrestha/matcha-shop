@@ -56,3 +56,5 @@ Once you have the project files, open index.html in a web browser to access the 
 Contributing
 Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
+License
+This project is licensed under the GDC License. Feel free to modify and use the code for your own projects.
