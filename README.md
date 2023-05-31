@@ -56,5 +56,3 @@ Once you have the project files, open index.html in a web browser to access the 
 Contributing
 Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
-![image](https://github.com/OmiShrestha/matcha-shop/assets/39242863/7db0f68a-2d86-4258-b6c7-8e047e8b6f89)
-
