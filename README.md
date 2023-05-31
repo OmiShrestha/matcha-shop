@@ -1,7 +1,7 @@
 # matcha-shop
 A simple webpage for a local matcha shop.
 
-Syra's Matcha Shop
+Syra's Matcha Shop:
 This project is a webpage for Syra's Matcha Shop. It is a static website built using HTML, CSS, and JavaScript. The website provides information about the menu, business hours, contact details, and a brief about the shop.
 
 Table of Contents:
@@ -12,17 +12,17 @@ Table of Contents:
 •	Usage
 •	Contributing
 
-Getting Started
+Getting Started:
 To get started with the project, you can clone the repository or download the source code.
 git clone <repository_url>
 
-Features
+Features:
 •	Navigation bar with links to different sections of the website
 •	Hero section with a welcoming message and an image
 •	Menu section displaying various drinks and their details in a table format
 •	Footer section with copyright information
 
-File Structure
+File Structure:
 The project has the following file structure:
 -	index.html
 -	hours.html
@@ -50,11 +50,11 @@ o	matcha_cafe.jpeg
 Installation:
 No installation is required for this project. You can simply open the HTML files in a web browser to view the website.
 
-Usage
+Usage:
 Once you have the project files, open index.html in a web browser to access the website. From there, you can navigate to different sections using the links in the navigation bar.
 
-Contributing
+Contributing:
 Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
-License
-This project is licensed under the GDC License. Feel free to modify and use the code for your own projects.
+License:
+This project is licensed under the GNU General Public License. Feel free to modify and use the code for your own projects.
