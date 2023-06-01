@@ -11,6 +11,7 @@ Table of Contents:
 •	Installation
 •	Usage
 •	Contributing
+• License
 
 Getting Started:
 To get started with the project, you can clone the repository or download the source code.
