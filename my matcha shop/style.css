@@ -43,7 +43,7 @@ textarea {
     --HERO-BGCOLOR: rgba(51, 178, 51, 0.75);
     --HERO-COLOR: #FFF;
     --HIGHLIGHT-COLOR: rgb(51, 178, 51);
-    --LINK-ACTIVE: darkgreen;
+    --LINK-ACTIVE: black;
     --LINK-COLOR: #000;
     --LINK-HOVER: hsla(0, 0%, 0%, 0.6);
     --NAV-BGCOLOR: #FFF;
@@ -110,7 +110,7 @@ body {
     box-shadow: 0 0 10px var(--BORDER-COLOR);
     color: var(--FONT-COLOR);
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 1920px;
     min-height: 100vh;
 }
 
@@ -411,9 +411,12 @@ tfoot td {
 }
 
 @media screen and (min-width: 576px) {
-
     .header__h1::after {
         content: ' 🍵';
+    }
+
+    .hero__h2 {
+        font-size: 175%;
     }
 
     .menu__ic,
@@ -425,5 +428,31 @@ tfoot td {
     .menu__cs,
     .menu__header {
         font-size: 125%;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    
+    .header__h1 {
+        font-size: 200%;
+    }
+
+    .header__ul {
+        font-size: 100%
+    }
+
+    .hero__h2 {
+        font-size: 200%;
+    }
+
+    .menu__ic,
+    .menu__hc,
+    .menu__ib,
+    .menu__cr,
+    .menu_mf
+    .menu__sf,
+    .menu__cs,
+    .menu__header {
+        font-size: 150%;
     }
 }
