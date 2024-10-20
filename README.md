@@ -1,7 +1,6 @@
 # matcha-shop
 A simple webpage for a local matcha shop.
 
-Syra's Matcha Shop:
 This project is a webpage for Syra's Matcha Shop. It is a static website built using HTML, CSS, and JavaScript. The website provides information about the menu, business hours, contact details, and a brief about the shop.
 
 Table of Contents:
